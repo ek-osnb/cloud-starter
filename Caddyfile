@@ -1,4 +1,4 @@
-mumbo-jumbo.cfg.dk {
+live.cfg.dk {
     encode gzip zstd
 
     handle {
